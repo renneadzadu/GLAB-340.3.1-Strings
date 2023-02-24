@@ -12,7 +12,7 @@ In this lab, we'll demonstrate how to use python to interact with Strings. Learn
 
 ### Word Play
 
-### Functionality 
+***Functionality*** 
 
 - [ ] The game will ask the user to enter a word.
 - [ ] The program will print the length of the word.
@@ -26,7 +26,7 @@ In this lab, we'll demonstrate how to use python to interact with Strings. Learn
 - [ ] The program will check if the original word is a palindrome (i.e., it reads the same forward and backward).
 - [ ] The program will check if the original word is a valid Python identifier (i.e., it starts with a letter or underscore, and only contains letters, digits, and underscores).
 
-### Example Output
+***Example Output***
 
 ```
 Enter a word: python
@@ -51,4 +51,4 @@ Is a valid Python identifier? Yes
 
 ```
 
-Please find attached answer.py for the answer code. 
+***Please find attached answer.py for the answer code.***
