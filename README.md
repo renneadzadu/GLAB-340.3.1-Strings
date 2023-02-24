@@ -3,14 +3,14 @@
 # GLAB-340.3.1-Strings
 
 ## Introduction
-In this project, you will create a word play game using Python strings. The game will prompt the user to enter a word, and then apply a series of operations to the word to generate new words.
+In this project, learner will create a word play game using Python strings. The game will prompt the user to enter a word, and then apply a series of operations to the word to generate new words.
 
 ## Lab Overview
 In this lab, we'll demonstrate how to use python to interact with Strings. Learner should be able to interact with string and return result by the end of this lab.
 
 ## Examples
 
-### Title: Word Play
+### Word Play
 
 ### Functionality 
 
